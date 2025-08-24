@@ -1,19 +1,4 @@
-<!-- ## Hi there 👋 --> 
 
-<!--
-**emsow/emsow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Bonjour 👋, je suis Elhadj Mamadou SOW</h1>
 <h3 align="center">Étudiant en Master 2 en Intelligence Artificielle et Data Science à l'Université Toulouse III Paul Sabatier.</h3>
 
@@ -89,45 +74,6 @@ Curieux et motivé, je cherche aujourd’hui un stage ou une opportunité d’em
 
 ---
 
-### Projets 
-
-* **Analyse de biais politiques dans les médias écrits**
-    * ***Objectif*** Utilisation des techniques de NLP et de Machine Learning pour analyser les biais politiques dans les articles.
-    * ***Technologies :*** NLP, Machine Learning, Python.
-    * ***Réalisations***
-      * Développement de modèles de classification de texte pour prédire les orientations politiques des articles.
-      * Application de techniques d'analyse de données pour traiter et comprendre de grands volumes de texte.
-
-* **Entraînement de modèles de classification textuelle **
-  * ***Objectif *** Développer et entraîner des classifieurs textuels en exploitant différentes techniques d'embeddings et d'architectures neuronales.
-  * ***Technologies *** NLP, Hugging Face, PyTorch, Transformers, Scikit-Learn
-  * Réalisations
-      * Utilisation d'embeddings statiques (Word2Vec, GloVe)
-      * Développement d'un modèle neuronal entraîné de zéro
-      * Réalisation d'un "fine-tuning" sur des modèles pré-entraînés comme BERT et GPT
-
-
-    
-
-* **Construction et analyse d'un graphe de connaissance des Jeux Olympiques**
-    * [cite_start]Modélisation des données olympiques sous Neo4j pour explorer les performances[cite: 53].
-    * [cite_start]Création d'un dashboard interactif (NeoDash) pour la visualisation des statistiques[cite: 55].
-    * [cite_start]**Technologies :** Python, Neo4j, Cypher, Pandas[cite: 56].
-
-* **[Système de recommandation de restaurants avec MongoDB]**
-    * [cite_start]Développement d'un système de recommandation basé sur des données modélisées et importées dans MongoDB[cite: 62].
-    * [cite_start]**Technologies :** PyMongo, ETL, Python, MongoDB[cite: 62].
-
-* **[Développement d'un Chatbot de Service Client Intégré avec ChatGPT]**
-    * [cite_start]Intégration de l'API ChatGPT pour automatiser les réponses aux questions fréquentes[cite: 65].
-    * [cite_start]Création d'une interface interactive avec Flask[cite: 66].
-    * [cite_start]**Technologies :** API ChatGPT, OpenAI, NLP, Python, Flask[cite: 68].
-
-* **[Analyse et Extraction d'Informations des Réseaux Sociaux en Temps de Crise]**
-    * [cite_start]Modélisation et exploration des interactions sur Twitter pour identifier les utilisateurs influents et les tendances[cite: 58].
-    * [cite_start]**Technologies :** Python, NetworkX, Scikit-learn, Matplotlib[cite: 61].
-
- ---
 
 ### Projets 
 
@@ -215,7 +161,7 @@ Curieux et motivé, je cherche aujourd’hui un stage ou une opportunité d’em
 
 ###  Contact
 
-* [cite_start]<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> : sow.elhadj.m@gmail.com [cite: 3]
-* [cite_start]<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> : [linkedin.com/in/elhadj-s](https://linkedin.com/in/elhadj-s) [cite: 4]
-* [cite_start]<img src="https://img.shields.io/badge/Téléphone-0664914992-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone Badge"/> : 0664914992 [cite: 3]
+* <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> : sow.elhadj.m@gmail.com 
+* <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> : [linkedin.com/in/elhadj-s](https://linkedin.com/in/elhadj-s) 
+* <img src="https://img.shields.io/badge/Téléphone-0664914992-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone Badge"/> : 0664914992 
 
