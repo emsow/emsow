@@ -163,5 +163,7 @@ Curieux et motivé, je cherche aujourd’hui un stage ou une opportunité d’em
 
 * <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> : sow.elhadj.m@gmail.com 
 * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> : [linkedin.com/in/elhadj-s](https://linkedin.com/in/elhadj-s) 
-* <img src="https://img.shields.io/badge/Téléphone-0664914992-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone Badge"/> : 0664914992 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?emsow=anuraghazra&show_icons=true&theme=radical)
+* <img src="https://img.shields.io/badge/Téléphone-0664914992-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone Badge"/> : 0664914992
+
+### Stats
+![elhadj_s's GitHub stats](https://github-readme-stats.vercel.app/api?emsow=anuraghazra&show_icons=true&theme=radical)
